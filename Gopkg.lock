@@ -1494,7 +1494,7 @@
   revision = "51fa6e26128d74e445c72d3a91af555151cc3654"
 
 [[projects]]
-  digest = "1:8632962e0712e94334d716bc1b3b12443b5a5fed420619d72238db34589d0a96"
+  digest = "1:9a7b6aeb76aa2677955cfb6152ad5bd580d82bc8e416331cb39f8b12a9e42d5f"
   name = "gopkg.in/juju/charm.v6"
   packages = [
     ".",
@@ -1502,10 +1502,11 @@
     "resource",
   ]
   pruneopts = ""
-  revision = "f595bfd8a0497d23ea8ae6604d02be42677a9de5"
+  revision = "192fa8d6960052d42e97b6525b3863e96ab50071"
+  source = "https://github.com/nammn/charm.git"
 
 [[projects]]
-  digest = "1:dc05394e66d3dfe6ecc7b966cc0ac4ab40c3d10b0249499af92f4c4ae3ad6e85"
+  digest = "1:e4b5e4dc87e06eae6d168f08f9787330aa88164b5f755b92d1a4600960d6c6f9"
   name = "gopkg.in/juju/charmrepo.v3"
   packages = [
     ".",
@@ -1514,7 +1515,7 @@
     "testing",
   ]
   pruneopts = ""
-  revision = "2adcece4e962a51e0793b8562560cf9da874026f"
+  revision = "5ca139ef9e6bd138ab2ff3c59aee3c472d12ac89"
 
 [[projects]]
   digest = "1:74fbfdf0898041a163a696f0a901b6f4740a47ceffb1839d514ba75699a60c3e"
